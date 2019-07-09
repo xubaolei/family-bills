@@ -1,8 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import PostList from './chapter2/PostList';
+import Hello from './chapter4/Hello';
   ReactDOM.render(
-    <PostList />,
+    <Hello />,
     document.getElementById('root')
   );
   
